@@ -1,7 +1,10 @@
-# mcb
-multi-clip board
+# multi-clip board
 
-This script is a kind of multi-clip board.
+Download mcb.py and mcb files.
+Modules used - pyperclip, shelve
+
+To install certain module, use :-
+  python -m pip install module_name
 
 mcb.py - Saves and load pieces of text to the clipboard
 
