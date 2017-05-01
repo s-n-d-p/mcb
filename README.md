@@ -6,7 +6,7 @@ Modules used - pyperclip, shelve
 To install certain module, use :-
   python -m pip install module_name
 
-mcb.py - Saves and load pieces of text to the clipboard
+mcb.py - Saves and load pieces of text to/from the clipboard
 
 # Usage: 
 
